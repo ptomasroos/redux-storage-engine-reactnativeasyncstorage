@@ -1,6 +1,6 @@
 {
   "name": "redux-storage-engine-reactnativeasyncstorage",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "react-native/AsyncStorage based engine for redux-storage",
   "main": "build/index.js",
   "scripts": {
@@ -19,8 +19,7 @@
     "react-native"
   ],
   "contributors": [
-    "Michael Contento <mail@michaelcontento.de>",
-    "Guns <gunjan.soni2002@gmail.com>"
+    "Michael Contento <mail@michaelcontento.de>"
   ],
   "files": [
     "build/",
